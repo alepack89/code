@@ -15,5 +15,5 @@ Solution:
     - dI = abs(ib - ia) steps along the i axis </br >
     - dJ = abs(jb - ja) steps along the j axis </br >
 
-    -> So the total number of distincts paths from A to B can be computed by counting all the possible ways of choosing dI (resp. dJ) steps out of dI + dJ steps without replacement. 
+    -> So the total number of distincts paths from A to B can be computed by counting all the possible ways of choosing dI (resp. dJ) steps out of dI + dJ steps without replacement.  </br >
     -> Mathematically: #paths = binomial_coefficient(dI + dJ, dI) = binomial_coefficient(dI + dJ, dJ)

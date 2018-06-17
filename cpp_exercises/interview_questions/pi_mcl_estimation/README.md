@@ -6,7 +6,7 @@ $$A = \pi R^{2}$$
 
 If we were given an estimate of the circle area $A^{*}$, we could compute an estimate of $\pi$ via a simple division 
 
-$$\pi \approx A^{*} / R^{2}$$
+$$\pi \approx \frac{A^{*}}{R^{2}}$$
 
 **Question**: how can we obtain an estimate of the area of a circle having radius $R$ (without using the well-known formula that is)?  
 **Answer**: by using Monte Carlo sampling

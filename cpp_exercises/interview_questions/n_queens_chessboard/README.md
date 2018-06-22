@@ -1,0 +1,1 @@
+**Problem**: compute the number of ways we can place N queens on a NxN chessboard without threatening each other
